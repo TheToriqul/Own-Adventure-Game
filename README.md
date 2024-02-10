@@ -20,12 +20,6 @@ Remember, **courage and curiosity are key** in the Enigmatic Woods. Make your ch
 
 **Will you emerge victorious or succumb to the woods' mysteries? The choice is yours!**
 
-**Additional Notes:**
-
-* This description emphasizes the key choices and outcomes for each path.
-* It highlights the importance of the player's decisions and the consequences they face.
-* It retains the original code's core themes of exploration, risk, and reward.
-
 
 
 ## Explanation of the code:
